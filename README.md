@@ -7,4 +7,4 @@ About Me:
 
 -3 Years of hands-on experience in object-oriented programming language: C++, Java, and Python.
 
--Incoming Software Engineer Intern at Parry Labs.
+-Software Engineer Intern at Parry Labs.
