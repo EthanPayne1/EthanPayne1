@@ -1,10 +1,9 @@
 
 About Me: 
 
--Upcoming Senior Majoring in Computer Science at the University of Texas at Dallas.
+- 4th year Computer Science Major at the University of Texas at Dallas.
 
--Specializing in Back-End Development and Linux Systems Programming with C++.
+- Experinced Software Engineer specializing in developing mission critial software for unmanned ariel systems (UAS)
 
--3 Years of hands-on experience in object-oriented programming language: C++, Java, and Python.
+- Language and Tools: C++, Java, Bash, Python, Podman/Docker, Git, Apache Kafka, Rocky/CentOS Linux, CI/CD, Phenom Data Modeling
 
--Software Engineer Intern at Parry Labs.
